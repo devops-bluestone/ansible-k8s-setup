@@ -1,6 +1,5 @@
 [masters]
-master.example.com
+kubemaster.bluestone.com
 
 [workers]
-nodeone.example.com
-nodetwo.example.com
+kubeworker.bluestone.com
